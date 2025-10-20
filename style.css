@@ -5,23 +5,23 @@ body {
     font-family: Lato, sans-serif;
 }
 
-.aaa {
+.header-page-element {
     width: 500px;
     margin: 0 auto;
     display: block;
     text-align: right;
 }
 
-.aaa img {
+.header-page-element img {
     width: 100%;
 }
 
-.aaa .more_inf {
+.header-page-element .more-info {
     font-family: "Fantasy", cursive;
 }
 
 @media (max-width:768px) {
-    .aaa { text-align: center;
+    .header-page-element { text-align: center;
     }
 }
 
